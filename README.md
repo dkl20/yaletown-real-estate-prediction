@@ -1,6 +1,6 @@
 **Yaletown Real Estate Price Prediction**
 
-This project developed a predictive pricing model to estimate apartment prices in Yaletown, Vancouver, using a dataset of 100 listings and multiple linear regression. By analyzing key property features such as interior floor space, building age, and parking availability, the model achieves an adjusted R² of 79.71%, demonstrating strong predictive accuracy.
+This project developed a predictive pricing model to estimate apartment prices in Yaletown, Vancouver, using a manually collected dataset of 100 listings and multiple linear regression. By analyzing key property features such as interior floor space, building age, and parking availability, the model achieves an adjusted R² of 79.71%, demonstrating strong predictive accuracy.
 
 **Results:**
 
