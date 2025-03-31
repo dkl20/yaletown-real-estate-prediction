@@ -16,6 +16,6 @@ X5 = Number of Parking Spots
 
 **Example Use-Case**
 
-Ŷ = 132118.055 1013.327(700) - 4805.501(15) + 66083.745(1) = $835,448.19
+Ŷ = 132118.055 + 1013.327(700) - 4805.501(15) + 66083.745(1) = $835,448.19
 
 For an apartment in Yaletown with 700 square feet, in a 15-year old building, and one parking spot, the estimated average price is $835,448.19.
